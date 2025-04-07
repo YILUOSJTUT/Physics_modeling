@@ -13,15 +13,6 @@ This portfolio showcases a series of physics-based modeling and simulation proje
 	•	Professional visualization of physical phenomena
 	•	Interpretability and insight, bridging theory with real-world engineering
 
-⸻
-
-📂 Projects Included
-
-Project Title	Description
-elastic_sphere_lame_solution/	Analytical 3D elasticity solution for a sphere under uniform external pressure (Lamé problem).
-More coming soon…	Dynamics, electromagnetism, wave equations, and other classical physics models.
-
-
 
 ⸻
 
@@ -30,21 +21,6 @@ More coming soon…	Dynamics, electromagnetism, wave equations, and other classi
 	•	NumPy (numerical computing)
 	•	Matplotlib (visualization)
 	•	Jupyter Notebook (interactive analysis)
-
-⸻
-
-💡 How to Use
-
-Each project is a standalone folder containing:
-	•	A well-documented Jupyter notebook (.ipynb)
-	•	Python scripts if applicable
-	•	Visualizations
-	•	Optional: References, equations, and markdown explanations
-
-To explore a project:
-
-cd elastic_sphere_lame_solution
-jupyter notebook Elastic_Solution.ipynb
 
 
 
